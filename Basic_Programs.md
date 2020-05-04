@@ -126,3 +126,5 @@ There are different forms of if statements,
     else 
         default statement;
 - The expression is tested from the top(of the ladder) downwards. As soon as a true condition is found, the statement associated with it is executed.
+
+ ### Important facts about if statements
