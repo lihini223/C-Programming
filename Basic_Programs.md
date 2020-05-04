@@ -70,5 +70,6 @@ Conditional statements are used to decision making in C
 ### if-else statement
 There are different forms of if statements,
 1. Simple if statement
+2. if-else statement
 
 
