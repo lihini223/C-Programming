@@ -76,4 +76,10 @@ There are different forms of if statements,
 
 ##### Simple if statement
 
+    if(expression)
+    {
+        statement inside;
+    }
+    
+
 
