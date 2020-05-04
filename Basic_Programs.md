@@ -127,4 +127,9 @@ There are different forms of if statements,
         default statement;
 - The expression is tested from the top(of the ladder) downwards. As soon as a true condition is found, the statement associated with it is executed.
 
- ### Important facts about if statements
+### :sparkles: Important facts about if statements 
+- A single if statement can be included without curly braces.
+        
+        int a = 5;
+        if(a > 4)
+        printf("Single if statement ");
