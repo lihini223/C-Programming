@@ -110,3 +110,16 @@ There are different forms of if statements,
     
 ##### else-if statement
 
+    if(expression1)
+    {
+        statement block1;
+    }else if(expression2) 
+    {
+        statement block2;
+    }else if(expression3 ) 
+    {
+        statement block3;
+    }
+    else 
+        default statement;
+
