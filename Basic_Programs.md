@@ -19,3 +19,17 @@ This File is created to upload basic C programming essentials.
 - %f is used to take and represent numbers with the fraction part.
 - %c is used to take and represent only one character.
 - & is used to assign the input value to the variable and store it at that particular location.
+
+
+        #include<stdio.h>
+
+        int main()
+        {
+
+        int num;  
+        float fraction;     
+        char character;
+    
+        // Taking integer as input from user
+        printf("Enter an integer:\n");
+        scanf("%d", &num);
