@@ -109,7 +109,8 @@ There are different forms of if statements,
     {
     statement block3;
     }
-    
+- if expression is false then statement-block3 will be executed, otherwise the execution continues and enters inside the first if to perform the check for the next if block, where if expression 1 is true the statement-block1 is executed otherwise statement-block2 is executed. 
+
 ##### else-if statement
 
     if(expression1)
