@@ -141,4 +141,6 @@ There are different forms of if statements,
         if(10)
         printf("hello");
         
-  In this example "hello" will be printed
+  In this example "hello" will be printed.
+
+## Switch Statement 
