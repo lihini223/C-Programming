@@ -133,3 +133,5 @@ There are different forms of if statements,
         int a = 5;
         if(a > 4)
         printf("Single if statement ");
+        
+ but if we have more than one statement inside if condition, then we must enclose them inside curly braces.
