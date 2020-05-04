@@ -13,4 +13,6 @@ This File is created to upload basic C programming essentials.
 **printf()** is a system defined function under <stdio.h> header. It is used to printout data on the screen.
 
 ### Getting inputs from user
+
 - scanf() is a inbuilt function under <stdio.h> and is used to take inputs from user.
+- %d is used to take and represent numbers in integer formart. 
