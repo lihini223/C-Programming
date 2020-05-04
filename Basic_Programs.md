@@ -59,5 +59,6 @@ This File is created to upload basic C programming essentials.
     }
 
 ## Conditionals in C 
+Conditional statements are used to decision making in C
 ### if-else 
 
