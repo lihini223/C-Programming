@@ -45,5 +45,6 @@ This File is created to upload basic C programming essentials.
         
         return 0;
         }
-
+        
+### How to printout the ASCII values of characters
 
