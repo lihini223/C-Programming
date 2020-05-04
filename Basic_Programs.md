@@ -92,6 +92,7 @@ There are different forms of if statements,
     {
         statement block2;
     }
+- If the expression is true, the **statement-block1** is executed, else **statement-block1** is skipped and **statement-block2** is executed. 
     
 ##### Nested if-else statement
 
