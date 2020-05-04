@@ -17,3 +17,4 @@ This File is created to upload basic C programming essentials.
 - scanf() is a inbuilt function under <stdio.h> and is used to take inputs from user.
 - %d is used to take and represent numbers in integer formart. 
 - %f is used to take and represent numbers with the fraction part.
+- %c is used to take and represent only one character.
