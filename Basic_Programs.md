@@ -67,5 +67,8 @@ Conditional statements are used to decision making in C
 - goto statement
 
 
-### if-else 
+### if-else statement
+There are different forms of if statements,
+1. Simple if statement
+
 
