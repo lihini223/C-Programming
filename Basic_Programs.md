@@ -143,4 +143,23 @@ There are different forms of if statements,
         
   In this example "hello" will be printed.
 
-## Switch Statement 
+## Switch Statement
+
+    switch(expression)
+    {
+        case value-1:
+    	    block-1;
+    	    break;
+        case value-2:
+    	    block-2;
+            break;
+        case value-3:
+    	    block-3;
+    	    break;
+        case value-4:
+    	    block-4;
+   	        break;
+        default:
+   	        default-block;
+    	    break;
+    }
