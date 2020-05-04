@@ -136,3 +136,9 @@ There are different forms of if statements,
         
  but if we have more than one statement inside if condition, then we must enclose them inside curly braces.
 - **==** must be used for comparison in the expression of if condition, if you use = the expression will always return true, because it performs assignment not comparison.
+- Other than 0(zero), all other values are considered as true. 
+    
+        if(10)
+        printf("hello");
+        
+  In this example "hello" will be printed
