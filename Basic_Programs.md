@@ -62,6 +62,8 @@ This File is created to upload basic C programming essentials.
 
 Conditional statements are used to decision making in C
 - if-else statement
+- switch statement
+
 
 
 
