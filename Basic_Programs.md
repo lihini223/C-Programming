@@ -83,4 +83,11 @@ There are different forms of if statements,
   
 ##### if-else statement 
 
-
+    if(expression)
+    {
+        statement block1;
+    }
+    else
+    {
+        statement block2;
+    }
