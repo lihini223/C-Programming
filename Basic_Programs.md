@@ -33,3 +33,9 @@ This File is created to upload basic C programming essentials.
         // Taking integer as input from user
         printf("Enter an integer:\n");
         scanf("%d", &num);
+        
+        // Taking float or fraction as input from the user
+        printf("\nEnter a Decimal number\n");
+        scanf("%f", &fraction); 
+        
+
