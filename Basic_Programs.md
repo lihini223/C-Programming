@@ -9,3 +9,5 @@ This File is created to upload basic C programming essentials.
         printf("Hello world!");
         return 0;
     }
+
+**printf()** is a system defined function under <stdio.h> header. It is used to printout data on the screen.
