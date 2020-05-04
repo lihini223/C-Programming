@@ -80,7 +80,8 @@ There are different forms of if statements,
     {
         statement inside;
     }
-  
+- If the expression returns true, then the **statement-inside** will be executed, otherwise **statement-inside** is skipped and            only the **statement-outside** is executed.
+
 ##### if-else statement 
 
     if(expression)
