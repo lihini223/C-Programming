@@ -38,4 +38,12 @@ This File is created to upload basic C programming essentials.
         printf("\nEnter a Decimal number\n");
         scanf("%f", &fraction); 
         
+                
+        // Taking Character as input from the user
+        printf("\nEnter a Character\n");
+        scanf("%c",&character);
+        
+        return 0;
+        }
+
 
