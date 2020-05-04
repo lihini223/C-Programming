@@ -91,3 +91,19 @@ There are different forms of if statements,
     {
         statement block2;
     }
+    
+##### Nested if-else statement
+
+    if( expression )
+    {
+        if( expression1 )
+        {
+            statement block1;
+        }else 
+        {
+            statement block2;
+        }
+    }else
+    {
+    statement block3;
+    }
