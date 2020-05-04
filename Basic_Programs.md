@@ -74,4 +74,6 @@ There are different forms of if statements,
 3. Nested if-else statement
 4. else-if statement
 
+##### Simple if statement
+
 
