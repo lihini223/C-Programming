@@ -18,4 +18,8 @@ int main()
     // Taking float or fraction as input from the user
     printf("\nEnter a Decimal number\n");
     scanf("%f", &fraction);
+    
+    // Taking Character as input from the user
+    printf("\nEnter a Character\n");
+    scanf("%c",&character);
 }
