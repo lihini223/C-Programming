@@ -167,3 +167,5 @@ There are different forms of if statements,
 ### Rules for using switch statement 
 
 1. The expression (after switch keyword) must yield an integer value i.e the expression should be an integer or a variable or an expression that evaluates to an integer.
+
+## Conditional operator statement
