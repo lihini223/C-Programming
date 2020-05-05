@@ -168,5 +168,6 @@ There are different forms of if statements,
 
 1. The expression (after switch keyword) must yield an integer value i.e the expression should be an integer or a variable or an expression that evaluates to an integer.
 2. The case label values must be unique.
+3. The case label must end with a colon(:)
 
 ## Conditional operator statement
