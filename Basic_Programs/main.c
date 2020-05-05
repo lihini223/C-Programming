@@ -10,4 +10,8 @@ int main()
     int num;
     float fraction;
     char character;
+    
+    // Taking integer as input from user
+    printf("Enter an integer:\n");
+    scanf("%d", &num);
 }
