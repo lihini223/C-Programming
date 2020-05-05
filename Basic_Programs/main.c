@@ -22,4 +22,10 @@ int main()
     // Taking Character as input from the user
     printf("\nEnter a Character\n");
     scanf("%c",&character);
+    
+    //How to printout the ASCII values of characters
+    char c;
+    printf("Enter a character : ");
+    scanf("%c" , &c);
+    printf("\n ASCII value of %c = %d",c,c);
 }
