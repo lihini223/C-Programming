@@ -14,6 +14,10 @@ int main()
     printf("Enter exponent value:");
     scanf("%d",&exponent);
 
+    while(i<= exponent){
+        ans *= number;
+        i++;
+    }
 
     printf("%d to the Power %d is %d ",number,exponent,ans);
     return 0;
