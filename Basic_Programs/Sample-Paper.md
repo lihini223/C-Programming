@@ -23,3 +23,18 @@ int main()
     return 0;
 }
 ```
+
+Find the max value among user inputted three integers
+
+#include <stdio.h>
+#include <stdlib.h>
+
+
+int main()
+{
+    int n1,n2,n3;
+    printf("enter three numbers:");
+    scanf("%d %d %d",&n1,&n2,&n3);
+    printf("max is %d",highest(n1,n2,n3));
+    return 0;
+}
