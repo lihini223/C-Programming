@@ -25,7 +25,7 @@ int main()
 ```
 
 Find the max value among user inputted three integers
-
+```
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -52,3 +52,4 @@ int main()
     printf("max is %d",highest(n1,n2,n3));
     return 0;
 }
+```
