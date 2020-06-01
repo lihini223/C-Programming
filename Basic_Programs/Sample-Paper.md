@@ -29,6 +29,20 @@ Find the max value among user inputted three integers
 #include <stdio.h>
 #include <stdlib.h>
 
+int highest(int n1,int n2, int n3){
+    int max=n1;
+    if(n2>n3){
+        if(n2>max){
+            max = n2;
+        }
+    }
+    else if(n3>max){
+        max = n3;
+    }
+   return max;
+
+
+}
 
 int main()
 {
