@@ -25,9 +25,9 @@ int sum(int n) {
         return n;
 }
 ```
-
 : Output :
 ```
 Enter a positive integer:3
 sum = 6
 ```
+[image of recursion process](https://cdn.programiz.com/sites/tutorial2program/files/recursion-natural-numbers.png)
