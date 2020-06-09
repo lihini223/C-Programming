@@ -30,4 +30,6 @@ int sum(int n) {
 Enter a positive integer:3
 sum = 6
 ```
-[image of recursion process](https://cdn.programiz.com/sites/tutorial2program/files/recursion-natural-numbers.png)
+image of recursion process
+
+![image of recursion process](https://github.com/lihini223/C-Programming/blob/master/Basic_Programs/recursion-natural-numbers.png)
