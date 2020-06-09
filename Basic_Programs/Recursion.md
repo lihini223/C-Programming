@@ -25,3 +25,9 @@ int sum(int n) {
         return n;
 }
 ```
+
+: Output :
+```
+Enter a positive integer:3
+sum = 6
+```
