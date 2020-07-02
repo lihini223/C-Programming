@@ -6,10 +6,12 @@
 - Reads  previously saved text file from the hard disk and display the count, Given Number, Square Value and the System time and diplay again with the current system time. 
 
 # Report
-- Introduction about the program.
-- Different Technology and Codes use to develop above program.
+- Introduction about the program
+- Different Technology and Codes use to develop above program
 - Source Code 
 - Output of each program on the Screen
+- Saved text files 
+
 
 
 
